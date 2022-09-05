@@ -1,2 +1,2 @@
 #! /bin/bash
-echo "Hello world, then print new line"
+0x02. Shell, I/O Redirections and filters
